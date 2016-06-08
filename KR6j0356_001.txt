@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:49.739396
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:57
 #+TITLE: 護命法門神呪經
 #+PROPERTY: CBETA_ID T20n1139
 #+PROPERTY: ID KR6j0356
