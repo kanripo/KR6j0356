@@ -1,22 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:49.739396
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:57
 #+TITLE: 護命法門神呪經
 #+PROPERTY: CBETA_ID T20n1139
 #+PROPERTY: ID KR6j0356
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1139
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0356_T_000-0584b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0356_T_001-0584b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1139[Nos.1137,1138,1140]¶
-
- 護命法門神呪經¶
+No. 1139 [Nos. 1137, 1138, 1140]¶
+護命法門神呪經¶
 ¶
-唐天竺三藏菩提流志譯¶
+唐天竺三藏＋（法師）【三】藏＋（法師）【宋】【元】【明】藏藏菩提流志譯¶
 
 如是我聞。一時薄伽梵。在菩提樹下成正覺¶
 處大制多中。與大苾芻眾千二百五十人俱。¶
